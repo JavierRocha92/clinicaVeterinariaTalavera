@@ -1,0 +1,52 @@
+body,html {
+    background-color: whitesmoke;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.info{
+    padding-left: 20px;
+}
+.title{
+    text-align: center;
+}
+.result {
+    border: 2px solid black;
+    margin:10px;
+    padding: 5px;     
+}
+.result-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+
+.high{
+      font-size: 1.5rem;
+      font-weight: bold;
+}
+p span{
+    font-size: 1.5rem;
+}
+.icon{
+    font-size: 2rem;
+}
+
+.tabla{
+    width: 500px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+
